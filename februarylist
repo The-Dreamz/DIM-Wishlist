@@ -173,5 +173,9 @@ dimwishlist:item=4249949938&perks=247725512,555281244
 dimwishlist:item=198854575&perks=1840239774,3142289711,2039302152,555281244
 
 // Crimil's Dagger
-//notes: Hunchos PvP - this is the second of the two absolute God Rolls for this gun. It's also, HANDS DOWN, the best kinetic 120 in the game. MW: Range > Handling > Stability
+//notes: Hunchos PvP2 - this is the second of the two absolute God Rolls for this gun. It's also, HANDS DOWN, the best kinetic 120 in the game. MW: Range > Handling > Stability
 dimwishlist:item=198854575&perks=1840239774,3142289711,2039302152,3673922083
+
+// Judgement
+//notes: Hunchos PvE
+dimwishlist:item=2226572694&perks=1926090093,3142289711,124408337,1955165503
