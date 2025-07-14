@@ -179,3 +179,11 @@ dimwishlist:item=198854575&perks=1840239774,3142289711,2039302152,3673922083
 // Judgement
 //notes: Hunchos PvE
 dimwishlist:item=2226572694&perks=1926090093,3142289711,124408337,1955165503
+
+// The Inquisitor
+//notes: Hunchos PvP [Secondary]
+ddimwishlist:item=51129316&perks=2579169598,47981717
+
+// The Inquisitor
+//notes: [BRUGLEYS ROLL] You want as close to 100 handling & 100 range as possible!
+dimwishlist:item=51129316&perks=4071163871,47981717
