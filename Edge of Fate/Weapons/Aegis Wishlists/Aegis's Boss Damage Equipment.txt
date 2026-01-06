@@ -1,5 +1,5 @@
-title: Aegis's Boss Damage Equipment
-description: Listing the most relevant Boss Damage tools at the moment.
+title: Aegis Boss Damage Equipment
+description:Listing the most relevant Boss Damage tools at the moment.
 
 //Celestial Nighthawk
 //notes:Aegis Boss Damage Shopping #1 -> Solid damage super with great ranged burst
@@ -1415,4 +1415,5 @@ dimwishlist:item=2378785953&perks=1840239774,1087426260,247725512,1546637391
 dimwishlist:item=2378785953&perks=1840239774,1087426260,247725512,3418165135
 dimwishlist:item=2378785953&perks=1840239774,1087426260,2938480696,1546637391
 dimwishlist:item=2378785953&perks=1840239774,1087426260,2938480696,3418165135
+
 
