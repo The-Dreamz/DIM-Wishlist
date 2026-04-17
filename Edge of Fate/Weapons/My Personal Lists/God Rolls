@@ -1,27 +1,12 @@
 title: Huncho's Renegades
 description:My compilation of God rolls starting after Renegades. It'll be primarily PvP but they'll be marked regardless. [Starting July 15, 2025]
 
-// ============================================================
-// Triple Laureate - PvP Wish List
-// Stasis Hand Cannon | Guardian Games 2026
-// Top-tier PvP choice - Range-stacked aggressive playstyle
-// ============================================================
- 
-// Barrel Shroud + Accurized Rounds + Slideshot + Master of Arms | Range MW
-dimwishlist:item=1605599021&perks=1300023272,3142289711,3161816588,3081867624&tags=pvp
-notes:Barrel Shroud / Accurized Rounds / Slideshot / Master of Arms - Range MW | PvP God Roll
- 
-// Smoothbore + Accurized Rounds + Slideshot + Master of Arms | Range MW
-dimwishlist:item=1605599021&perks=466087222,3142289711,3161816588,3081867624&tags=pvp
-notes:Smoothbore / Accurized Rounds / Slideshot / Master of Arms - Range MW | PvP God Roll
- 
-// Barrel Shroud + Accurized Rounds + Slideshot + Opening Shot | Range MW
-dimwishlist:item=1605599021&perks=1300023272,3142289711,3161816588,47981717&tags=pvp
-notes:Barrel Shroud / Accurized Rounds / Slideshot / Opening Shot - Range MW | PvP God Roll
- 
-// Smoothbore + Accurized Rounds + Slideshot + Opening Shot | Range MW
-dimwishlist:item=1605599021&perks=466087222,3142289711,3161816588,47981717&tags=pvp
-notes:Smoothbore / Accurized Rounds / Slideshot / Opening Shot - Range MW | PvP God Roll
+// Triple Laureate
+//notes:PvP God Roll - Stasis Hand Cannon | Top-tier PvP pick | MW: Range
+dimwishlist:item=1605599021&perks=1300023272,3142289711,3161816588,3081867624
+dimwishlist:item=1605599021&perks=466087222,3142289711,3161816588,3081867624
+dimwishlist:item=1605599021&perks=1300023272,3142289711,3161816588,47981717
+dimwishlist:item=1605599021&perks=466087222,3142289711,3161816588,47981717
 
 // Riptide
 //notes:S-Tier: Does it all!|tags:pve,s-tier
