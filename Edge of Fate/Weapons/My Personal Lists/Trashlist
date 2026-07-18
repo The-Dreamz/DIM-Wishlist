@@ -1,5 +1,5 @@
 title: Huncho's Trashlist
-description:Any weapon D tier or lower will be given a thumbs-down. If there's an A or S tier alternative, they'll be listed. Updated June 28
+description:Any weapon D tier or lower will be given a thumbs-down. If there's an A or S tier alternative, they'll be listed. NEEDS TO BE UPDATED
 
 //Old Sterling
 //notes:D Tier. Aegis Recommended alternative(s): No Hesitation, DECATUR 02, Adamantite, Reckless Oracle, Cusp Sempiternal, Gnawing Hunger, Positive Outlook, Arctic Haze, The Ringing Nail, Zealous Ideal, Reghusk's Pledge, Abyss Defiant, The Summoner, The Riposte, Scathelocke, Everburning Glitz, VS Pyroelectric Propellant, Chroma Rush, Snipehunt Mk. 47
@@ -272,7 +272,7 @@ dimwishlist:item=-1107446438&perks=
 
 
 //The Guiding Sight
-//notes:D Tier. Aegis Recommended alternative(s): Unworthy, Vouchsafe, Trustee, Voltaic Shade, Aisha's Embrace, Doom of Chelchis, No Feelings, Forced Memorializer, Hung Jury SR4, Vision of Confluence, Randy's Throwing Knife, Patron of Lost Causes, Nature Reclaimed, Tarnished Mettle, Fang of Ir Yût, The Scholar
+//notes:B Tier. Aegis Recommended alternative(s): Unworthy, Vouchsafe, Trustee, Voltaic Shade, Aisha's Embrace, Doom of Chelchis, No Feelings, Forced Memorializer, Hung Jury SR4, Vision of Confluence, Randy's Throwing Knife, Patron of Lost Causes, Nature Reclaimed, Tarnished Mettle, Fang of Ir Yût, The Scholar
 dimwishlist:item=-1641430382&perks=
 dimwishlist:item=-3890960908&perks=
 dimwishlist:item=-1161561386&perks=
@@ -280,7 +280,7 @@ dimwishlist:item=-417100299&perks=
 
 
 //Glissando-47
-//notes:D Tier. Aegis Recommended alternative(s): Unworthy, Vouchsafe, Trustee, Voltaic Shade, Aisha's Embrace, Doom of Chelchis, No Feelings, Forced Memorializer, Hung Jury SR4, Vision of Confluence, Randy's Throwing Knife, Patron of Lost Causes, Nature Reclaimed, Tarnished Mettle, Fang of Ir Yût, The Scholar
+//notes:C Tier. Aegis Recommended alternative(s): Unworthy, Vouchsafe, Trustee, Voltaic Shade, Aisha's Embrace, Doom of Chelchis, No Feelings, Forced Memorializer, Hung Jury SR4, Vision of Confluence, Randy's Throwing Knife, Patron of Lost Causes, Nature Reclaimed, Tarnished Mettle, Fang of Ir Yût, The Scholar
 dimwishlist:item=-222606050&perks=
 dimwishlist:item=-3156551028&perks=
 
@@ -471,7 +471,7 @@ dimwishlist:item=-1513993763&perks=
 
 
 //Orewing's Maul
-//notes:D Tier. Aegis Recommended alternative(s): VS Velocity Baton, Ouster Engine, Psychopomp, Festival Flight, Gizmo Weft, Motif-41, Lost Signal, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, New Pacific Epitaph, Wilderflight, Wilderflight: RotN version, Martyr's Retribution, Forbearance: BRAVE version, Forbearance, Lingering Dread, New Pacific Epitaph: RotN version, Permafrost, Tusk of the Boar
+//notes:C Tier. Aegis Recommended alternative(s): VS Velocity Baton, Ouster Engine, Psychopomp, Festival Flight, Gizmo Weft, Motif-41, Lost Signal, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, New Pacific Epitaph, Wilderflight, Wilderflight: RotN version, Martyr's Retribution, Forbearance: BRAVE version, Forbearance, Lingering Dread, New Pacific Epitaph: RotN version, Permafrost, Tusk of the Boar
 dimwishlist:item=-1870979911&perks=
 dimwishlist:item=-2108920981&perks=
 
@@ -489,7 +489,7 @@ dimwishlist:item=-447296102&perks=
 
 
 //Aurvandil FR6
-//notes:D Tier. Aegis Recommended alternative(s): Cartesian Coordinate, Null Composure, The Beacon, Riptide, Lionfish-4fr, Accelerando-42, Scatter Signal, Techeun Force, Finite Maybe, TAHOMA 01, Zealot's Reward, Glacioclasm, Monody-44, Afterlight
+//notes:C Tier. Aegis Recommended alternative(s): Cartesian Coordinate, Null Composure, The Beacon, Riptide, Lionfish-4fr, Accelerando-42, Scatter Signal, Techeun Force, Finite Maybe, TAHOMA 01, Zealot's Reward, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-963710795&perks=
 dimwishlist:item=-3786215462&perks=
 
@@ -501,7 +501,7 @@ dimwishlist:item=-856316142&perks=
 
 
 //Iterative Loop
-//notes:D Tier. Aegis Recommended alternative(s): Cartesian Coordinate, Null Composure, The Beacon, Riptide, Lionfish-4fr, Accelerando-42, Scatter Signal, Techeun Force, Finite Maybe, TAHOMA 01, Zealot's Reward, Glacioclasm, Monody-44, Afterlight
+//notes:C Tier. Aegis Recommended alternative(s): Cartesian Coordinate, Null Composure, The Beacon, Riptide, Lionfish-4fr, Accelerando-42, Scatter Signal, Techeun Force, Finite Maybe, TAHOMA 01, Zealot's Reward, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-1289796511&perks=
 
 
@@ -516,15 +516,6 @@ dimwishlist:item=-1117787139&perks=
 //notes:E Tier. Aegis Recommended alternative(s): Cartesian Coordinate, Null Composure, The Beacon, Riptide, Lionfish-4fr, Accelerando-42, Scatter Signal, Techeun Force, Finite Maybe, TAHOMA 01, Zealot's Reward, Glacioclasm, Monody-44, Afterlight
 dimwishlist:item=-607191995&perks=
 dimwishlist:item=-342027677&perks=
-
-
-//The Wizened Rebuke
-//notes:E Tier. Aegis Recommended alternative(s): Cartesian Coordinate, Null Composure, The Beacon, Riptide, Lionfish-4fr, Accelerando-42, Scatter Signal, Techeun Force, Finite Maybe, TAHOMA 01, Zealot's Reward, Glacioclasm, Monody-44, Afterlight
-dimwishlist:item=-1999697514&perks=
-dimwishlist:item=-2290416&perks=
-dimwishlist:item=-2961807684&perks=
-dimwishlist:item=-930590127&perks=
-dimwishlist:item=-293709641&perks=
 
 
 //Iota Draconis
@@ -574,54 +565,22 @@ dimwishlist:item=-515224227&perks=
 
 
 //Scavenger's Fate
-//notes:D Tier. Aegis Recommended alternative(s): Perfect Paradox, Heritage, Unvoiced, Found Verdict, Basso Ostinato, One Small Step, Threat Level, IKELOS_SG_v1.0.3, Arcane Embrace, Until Its Return, Blasphemer, A Sudden Death: RotN version, Imperial Decree, Pure Recollection
+//notes:C Tier. Aegis Recommended alternative(s): Perfect Paradox, Heritage, Unvoiced, Found Verdict, Basso Ostinato, One Small Step, Threat Level, IKELOS_SG_v1.0.3, Arcane Embrace, Until Its Return, Blasphemer, A Sudden Death: RotN version, Imperial Decree, Pure Recollection
 dimwishlist:item=-2913577176&perks=
-
-
-//Gunnora's Axe
-//notes:E Tier. Aegis Recommended alternative(s): Perfect Paradox, Heritage, Unvoiced, Found Verdict, Basso Ostinato, One Small Step, Threat Level, IKELOS_SG_v1.0.3, Arcane Embrace, Until Its Return, Blasphemer, A Sudden Death: RotN version, Imperial Decree, Pure Recollection
-dimwishlist:item=-411397829&perks=
-dimwishlist:item=-94729174&perks=
-dimwishlist:item=-2326716489&perks=
-dimwishlist:item=-487361141&perks=
-dimwishlist:item=-218787951&perks=
 
 
 //No Reprieve
 //notes:E Tier. Aegis Recommended alternative(s): Perfect Paradox, Heritage, Unvoiced, Found Verdict, Basso Ostinato, One Small Step, Threat Level, IKELOS_SG_v1.0.3, Arcane Embrace, Until Its Return, Blasphemer, A Sudden Death: RotN version, Imperial Decree, Pure Recollection
 dimwishlist:item=-2531963421&perks=
 
-
-//The Inquisitor
-//notes:E Tier. Aegis Recommended alternative(s): Perfect Paradox, Heritage, Unvoiced, Found Verdict, Basso Ostinato, One Small Step, Threat Level, IKELOS_SG_v1.0.3, Arcane Embrace, Until Its Return, Blasphemer, A Sudden Death: RotN version, Imperial Decree, Pure Recollection
-dimwishlist:item=-2185327324&perks=
-dimwishlist:item=-2307365&perks=
-dimwishlist:item=-2653171212&perks=
-dimwishlist:item=-825554997&perks=
-dimwishlist:item=-51129316&perks=
-dimwishlist:item=-2330860573&perks=
-dimwishlist:item=-1185633760&perks=
-
-
 //Wishbringer
 //notes:F Tier. Aegis Recommended alternative(s): Perfect Paradox, Heritage, Unvoiced, Found Verdict, Basso Ostinato, One Small Step, Threat Level, IKELOS_SG_v1.0.3, Arcane Embrace, Until Its Return, Blasphemer, A Sudden Death: RotN version, Imperial Decree, Pure Recollection
 dimwishlist:item=-3190698551&perks=
 dimwishlist:item=-3356526253&perks=
 
-
 //Toil and Trouble
 //notes:F Tier. Aegis Recommended alternative(s): Perfect Paradox, Heritage, Unvoiced, Found Verdict, Basso Ostinato, One Small Step, Threat Level, IKELOS_SG_v1.0.3, Arcane Embrace, Until Its Return, Blasphemer, A Sudden Death: RotN version, Imperial Decree, Pure Recollection
 dimwishlist:item=-2957367743&perks=
-
-
-//Locus Locutus
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, Rapid Growth, Omniscient Eye, Something Something, Adored, The Supremacy, Critical Anomaly, ALLEN 05, Father's Sins, Keen Thistle, Trophy Hunter, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
-dimwishlist:item=-4132072834&perks=
-
-
-//Volta Bracket
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, Rapid Growth, Omniscient Eye, Something Something, Adored, The Supremacy, Critical Anomaly, ALLEN 05, Father's Sins, Keen Thistle, Trophy Hunter, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
-dimwishlist:item=-3920310144&perks=
 
 
 //Thoughtless
@@ -634,26 +593,15 @@ dimwishlist:item=-4067556514&perks=
 dimwishlist:item=-3326850591&perks=
 dimwishlist:item=-174804902&perks=
 
-
-//Mechabre
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, Rapid Growth, Omniscient Eye, Something Something, Adored, The Supremacy, Critical Anomaly, ALLEN 05, Father's Sins, Keen Thistle, Trophy Hunter, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
-dimwishlist:item=-1280894514&perks=
-dimwishlist:item=-3871226707&perks=
-dimwishlist:item=-2477980485&perks=
-dimwishlist:item=-3023280734&perks=
-
-
 //Silicon Neuroma
 //notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, Rapid Growth, Omniscient Eye, Something Something, Adored, The Supremacy, Critical Anomaly, ALLEN 05, Father's Sins, Keen Thistle, Trophy Hunter, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-3355385170&perks=
 dimwishlist:item=-1387987271&perks=
 dimwishlist:item=-990416096&perks=
 
-
 //Luna Regolith III
 //notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, Rapid Growth, Omniscient Eye, Something Something, Adored, The Supremacy, Critical Anomaly, ALLEN 05, Father's Sins, Keen Thistle, Trophy Hunter, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-1948035256&perks=
-
 
 //Far Future
 //notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, Rapid Growth, Omniscient Eye, Something Something, Adored, The Supremacy, Critical Anomaly, ALLEN 05, Father's Sins, Keen Thistle, Trophy Hunter, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
@@ -677,12 +625,6 @@ dimwishlist:item=-2851703775&perks=
 dimwishlist:item=-2290863050&perks=
 dimwishlist:item=-4083045006&perks=
 dimwishlist:item=-781498181&perks=
-
-
-//Mercurial Overreach
-//notes:E Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, Rapid Growth, Omniscient Eye, Something Something, Adored, The Supremacy, Critical Anomaly, ALLEN 05, Father's Sins, Keen Thistle, Trophy Hunter, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
-dimwishlist:item=-2073794990&perks=
-dimwishlist:item=-4257236930&perks=
 
 
 //Gallu RR3
@@ -713,18 +655,10 @@ dimwishlist:item=-3312073055&perks=
 //notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, Rapid Growth, Omniscient Eye, Something Something, Adored, The Supremacy, Critical Anomaly, ALLEN 05, Father's Sins, Keen Thistle, Trophy Hunter, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-3745990145&perks=
 
-
 //The Domino
 //notes:F Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, Rapid Growth, Omniscient Eye, Something Something, Adored, The Supremacy, Critical Anomaly, ALLEN 05, Father's Sins, Keen Thistle, Trophy Hunter, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-4272442416&perks=
 dimwishlist:item=-2800870005&perks=
-
-
-//Cry Mutiny
-//notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Edge Transit: BRAVE version, The Ever-Present, Koraxis's Distress, Outrageous Fortune, Love and Death, Canis Major, Doomsday, Bitter/Sweet, Wicked Sister, Cataphract GL3, Dimensional Hypotrochoid
-dimwishlist:item=-616582330&perks=
-dimwishlist:item=-768696858&perks=
-
 
 //Swarm of the Raven
 //notes:D Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, Edge Transit: BRAVE version, The Ever-Present, Koraxis's Distress, Outrageous Fortune, Love and Death, Canis Major, Doomsday, Bitter/Sweet, Wicked Sister, Cataphract GL3, Dimensional Hypotrochoid
@@ -860,107 +794,31 @@ dimwishlist:item=-1180270692&perks=
 //notes:E Tier. Aegis Recommended alternative(s): Zephyr, Synanceia, The Slammer, False Idols, Sullen Claw, Terciopelo-4bl, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, Nasreddin, Sola's Scar, Chivalric Fire, Night Terror, Hardline Cut, Abide the Return, The Other Half, Eighty-Six, Goldtusk, Temptation's Hook, Stryker's Sure-Hand
 dimwishlist:item=-1796949035&perks=
 
-
 //Thin Precipice
 //notes:F Tier. Aegis Recommended alternative(s): Zephyr, Synanceia, The Slammer, False Idols, Sullen Claw, Terciopelo-4bl, Bequest, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, Nasreddin, Sola's Scar, Chivalric Fire, Night Terror, Hardline Cut, Abide the Return, The Other Half, Eighty-Six, Goldtusk, Temptation's Hook, Stryker's Sure-Hand
 dimwishlist:item=-4066778670&perks=
 
-
-//Rufus's Fury
-//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
-dimwishlist:item=-484515708&perks=
-dimwishlist:item=-342514437&perks=
-
-
-//Lethal Abundance
-//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
-dimwishlist:item=-2189073092&perks=
-dimwishlist:item=-3428407746&perks=
-
-
 //Come to Pass
-//notes:D Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
+//notes:B Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-927567426&perks=
 
-
 //Arctic Haze
-//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
+//notes:A Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-20935540&perks=
-
-
-//Chrysura Melo
-//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
-dimwishlist:item=-1337707096&perks=
-
-
-//The Forward Path
-//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
-dimwishlist:item=-1690783811&perks=
-dimwishlist:item=-2014642399&perks=
-
-
-//Seventh Seraph Carbine
-//notes:E Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
-dimwishlist:item=-1561006927&perks=
-dimwishlist:item=-4070357005&perks=
-
 
 //Sorrow's Verse
 //notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-2496875173&perks=
 
-
 //Arc Logic
 //notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
 dimwishlist:item=-2723909519&perks=
-
-
-//Gnawing Hunger
-//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
-dimwishlist:item=-821154603&perks=
-
-
-//Scathelocke
-//notes:F Tier. Aegis Recommended alternative(s): No Hesitation, Cusp Sempiternal, Reckless Oracle, Reghusk's Pledge, Abyss Defiant, Zealous Ideal, The Summoner, The Riposte, Everburning Glitz, VS Pyroelectric Propellant, Adamantite
-dimwishlist:item=-602618796&perks=
-dimwishlist:item=-3762467078&perks=
-
-
-//Biting Winds
-//notes:D Tier. Aegis Recommended alternative(s): Non-Denouement, Accrued Redemption, Fortunate Star, Anamnesis, Pre Astyanax IV, King Orfeo, Tyranny of Heaven, Mercury-A
-dimwishlist:item=-1621657423&perks=
-
-
-//Something New
-//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Modified B-7 Pistol, Posterity, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
-dimwishlist:item=-1856262127&perks=
-dimwishlist:item=-3240434620&perks=
-dimwishlist:item=-586671776&perks=
-
-
-//Spare Rations
-//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Modified B-7 Pistol, Posterity, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
-dimwishlist:item=-3116356268&perks=
-dimwishlist:item=-3236112986&perks=
-
 
 //Better Devils
 //notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Modified B-7 Pistol, Posterity, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
 dimwishlist:item=-1048266744&perks=
 dimwishlist:item=-153979397&perks=
 dimwishlist:item=-4152016199&perks=
-
-
-//Round Robin
-//notes:D Tier. Aegis Recommended alternative(s): Word of Crota, Modified B-7 Pistol, Posterity, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
-dimwishlist:item=-2034215657&perks=
-
-
-//Rose
-//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Modified B-7 Pistol, Posterity, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
-dimwishlist:item=-2429822976&perks=
-dimwishlist:item=-882778888&perks=
-
 
 //Malediction
 //notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Modified B-7 Pistol, Posterity, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
@@ -973,160 +831,22 @@ dimwishlist:item=-3649055823&perks=
 dimwishlist:item=-4292849692&perks=
 dimwishlist:item=-198854575&perks=
 
-
-//D.F.A.
-//notes:E Tier. Aegis Recommended alternative(s): Word of Crota, Modified B-7 Pistol, Posterity, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
-dimwishlist:item=-575830664&perks=
-dimwishlist:item=-2006308129&perks=
-dimwishlist:item=-4238497225&perks=
-
-
-//Seventh Seraph Officer Revolver
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Modified B-7 Pistol, Posterity, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
-dimwishlist:item=-3037520408&perks=
-dimwishlist:item=-1555959830&perks=
-
-
-//Loud Lullaby
-//notes:F Tier. Aegis Recommended alternative(s): Word of Crota, Modified B-7 Pistol, Posterity, Aureus Neutralizer, Sightline Survey, Agape, Corundum Hammer, Exalted Truth, Unloved, Solemn Remembrance, Ancient Gospel, Zaouli's Bane, Sarpedon-D, Phoneutria Fera, Midnight Coup, Fatebringer, Maahes HC4
-dimwishlist:item=-3924212056&perks=
-
-
-//Insidious
-//notes:D Tier. Aegis Recommended alternative(s): Gridskipper, The Martlet, Claws of the Wolf, Joxer's Longsword, Horror's Least, Vantage Point, Oversoul Edict, Nullify, All or Nothing, Corrasion, High Tyrant, Elsie's Rifle, Jurassic Green, Adhortative, Darkest Before, Cruel Mercy, Blast Furnace, Stars in Shadow
-dimwishlist:item=-3428521585&perks=
-dimwishlist:item=-786352912&perks=
-
-
-//Smite of Merain
-//notes:D Tier. Aegis Recommended alternative(s): Gridskipper, The Martlet, Claws of the Wolf, Joxer's Longsword, Horror's Least, Vantage Point, Oversoul Edict, Nullify, All or Nothing, Corrasion, High Tyrant, Elsie's Rifle, Jurassic Green, Adhortative, Darkest Before, Cruel Mercy, Blast Furnace, Stars in Shadow
-dimwishlist:item=-2221264583&perks=
-dimwishlist:item=-3407395594&perks=
-
-
-//New Purpose
-//notes:D Tier. Aegis Recommended alternative(s): Gridskipper, The Martlet, Claws of the Wolf, Joxer's Longsword, Horror's Least, Vantage Point, Oversoul Edict, Nullify, All or Nothing, Corrasion, High Tyrant, Elsie's Rifle, Jurassic Green, Adhortative, Darkest Before, Cruel Mercy, Blast Furnace, Stars in Shadow
-dimwishlist:item=-1780464822&perks=
-
-
-//Belisarius-D
-//notes:E Tier. Aegis Recommended alternative(s): Gridskipper, The Martlet, Claws of the Wolf, Joxer's Longsword, Horror's Least, Vantage Point, Oversoul Edict, Nullify, All or Nothing, Corrasion, High Tyrant, Elsie's Rifle, Jurassic Green, Adhortative, Darkest Before, Cruel Mercy, Blast Furnace, Stars in Shadow
-dimwishlist:item=-2313726158&perks=
-
-
-//Relentless
-//notes:E Tier. Aegis Recommended alternative(s): Gridskipper, The Martlet, Claws of the Wolf, Joxer's Longsword, Horror's Least, Vantage Point, Oversoul Edict, Nullify, All or Nothing, Corrasion, High Tyrant, Elsie's Rifle, Jurassic Green, Adhortative, Darkest Before, Cruel Mercy, Blast Furnace, Stars in Shadow
-dimwishlist:item=-1187594590&perks=
-dimwishlist:item=-435821041&perks=
-dimwishlist:item=-3733988413&perks=
-dimwishlist:item=-1827058652&perks=
-dimwishlist:item=-3681280908&perks=
-dimwishlist:item=-1066598837&perks=
-
-
-//Veles-X
-//notes:F Tier. Aegis Recommended alternative(s): Gridskipper, The Martlet, Claws of the Wolf, Joxer's Longsword, Horror's Least, Vantage Point, Oversoul Edict, Nullify, All or Nothing, Corrasion, High Tyrant, Elsie's Rifle, Jurassic Green, Adhortative, Darkest Before, Cruel Mercy, Blast Furnace, Stars in Shadow
-dimwishlist:item=-2276328320&perks=
-
-
-//The Time-Worn Spire
-//notes:F Tier. Aegis Recommended alternative(s): Gridskipper, The Martlet, Claws of the Wolf, Joxer's Longsword, Horror's Least, Vantage Point, Oversoul Edict, Nullify, All or Nothing, Corrasion, High Tyrant, Elsie's Rifle, Jurassic Green, Adhortative, Darkest Before, Cruel Mercy, Blast Furnace, Stars in Shadow
-dimwishlist:item=-3593598010&perks=
-dimwishlist:item=-4425887&perks=
-
-
-//Premonition
-//notes:F Tier. Aegis Recommended alternative(s): Gridskipper, The Martlet, Claws of the Wolf, Joxer's Longsword, Horror's Least, Vantage Point, Oversoul Edict, Nullify, All or Nothing, Corrasion, High Tyrant, Elsie's Rifle, Jurassic Green, Adhortative, Darkest Before, Cruel Mercy, Blast Furnace, Stars in Shadow
-dimwishlist:item=-208088207&perks=
-
-
-//Hailing Confusion
-//notes:F Tier. Aegis Recommended alternative(s): Gridskipper, The Martlet, Claws of the Wolf, Joxer's Longsword, Horror's Least, Vantage Point, Oversoul Edict, Nullify, All or Nothing, Corrasion, High Tyrant, Elsie's Rifle, Jurassic Green, Adhortative, Darkest Before, Cruel Mercy, Blast Furnace, Stars in Shadow
-dimwishlist:item=-2870169846&perks=
-
-
-//Pointed Inquiry
-//notes:D Tier. Aegis Recommended alternative(s): Unworthy, Aisha's Embrace, Voltaic Shade, Trustee, Vouchsafe, Forced Memorializer, Hung Jury SR4, Vision of Confluence, Randy's Throwing Knife, Patron of Lost Causes, Nature Reclaimed, Tarnished Mettle, Doom of Chelchis
-dimwishlist:item=-297296830&perks=
-
-
-//Last Rite
-//notes:F Tier. Aegis Recommended alternative(s): Unworthy, Aisha's Embrace, Voltaic Shade, Trustee, Vouchsafe, Forced Memorializer, Hung Jury SR4, Vision of Confluence, Randy's Throwing Knife, Patron of Lost Causes, Nature Reclaimed, Tarnished Mettle, Doom of Chelchis
-dimwishlist:item=-542573208&perks=
-
-
-//The Scholar
-//notes:F Tier. Aegis Recommended alternative(s): Unworthy, Aisha's Embrace, Voltaic Shade, Trustee, Vouchsafe, Forced Memorializer, Hung Jury SR4, Vision of Confluence, Randy's Throwing Knife, Patron of Lost Causes, Nature Reclaimed, Tarnished Mettle, Doom of Chelchis
-dimwishlist:item=-2386979999&perks=
-dimwishlist:item=-2478792241&perks=
-
-
-//Empirical Evidence
-//notes:F Tier. Aegis Recommended alternative(s): Compact Defender, Insurmountable, Drang, Evening SI4, Heliocentric QSc, Forgiveness, Division, Fimbulwinter Stitch, Anonymous Autumn, Brigand's Law, Drang (Baroque)
-dimwishlist:item=-2607304614&perks=
-
-
 //Prolonged Engagement
 //notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-2349907931&perks=
-
-
-//Unending Tempest
-//notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
-dimwishlist:item=-2510526114&perks=
-
-
-//Unforgiven
-//notes:D Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
-dimwishlist:item=-3000847393&perks=
-
-
-//Synchronic Roulette
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
-dimwishlist:item=-811403305&perks=
-
-
-//Forensic Nightmare
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
-dimwishlist:item=-1526296434&perks=
-
-
-//Submission
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
-dimwishlist:item=-3886416794&perks=
-dimwishlist:item=-1941816543&perks=
-
-
-//Out of Bounds
-//notes:E Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
-dimwishlist:item=-2988121501&perks=
-
 
 //Death Adder
 //notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-2742490609&perks=
 dimwishlist:item=-2517599010&perks=
 
-
 //Seventh Seraph VY-7
 //notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
 dimwishlist:item=-766323545&perks=
 
-
-//Every Waking Moment
-//notes:F Tier. Aegis Recommended alternative(s): Multimach CCX, Yeartide Apex, M-17 "Fast Talker", The Recluse, Peculiar Charm, MIDA Mini-Tool, Antedate, The Title, Gunburn, Imminence, No Survivors: RotN version, Shayura's Wrath, Noxious Vetiver
-dimwishlist:item=-4277547616&perks=
-
-
-//Salvager's Salvo
-//notes:D Tier. Aegis Recommended alternative(s): VS Velocity Baton, Festival Flight, Gizmo Weft, Motif-41, Lost Signal, Psychopomp, Theodolite, The Mountaintop: BRAVE version, Liturgy, Romantic Death, Wilderflight: RotN version, Martyr's Retribution, Forbearance, New Pacific Epitaph: RotN version, Permafrost, Tusk of the Boar, Forbearance: BRAVE version
-dimwishlist:item=-2060863616&perks=
-
-
 //Dream Breaker
 //notes:E Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
 dimwishlist:item=-2931957300&perks=
-
 
 //Main Ingredient
 //notes:F Tier. Aegis Recommended alternative(s): Lionfish-4fr, Riptide, Scatter Signal, Finite Maybe, Monody-44, Zealot's Reward, Techeun Force, Cartesian Coordinate, Glacioclasm, Afterlight
@@ -1154,11 +874,6 @@ dimwishlist:item=-2074041946&perks=
 dimwishlist:item=-4117693024&perks=
 
 
-//Felwinter's Lie
-//notes:E Tier. Aegis Recommended alternative(s): Perfect Paradox, Unvoiced, IKELOS_SG_v1.0.3, Until Its Return, A Sudden Death: RotN version, Imperial Decree, Pure Recollection, Heritage, Found Verdict
-dimwishlist:item=-1179141605&perks=
-
-
 //Blasphemer
 //notes:F Tier. Aegis Recommended alternative(s): Perfect Paradox, Unvoiced, IKELOS_SG_v1.0.3, Until Its Return, A Sudden Death: RotN version, Imperial Decree, Pure Recollection, Heritage, Found Verdict
 dimwishlist:item=-2782847179&perks=
@@ -1177,12 +892,6 @@ dimwishlist:item=-3216652511&perks=
 //Frozen Orbit
 //notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
 dimwishlist:item=-3473290087&perks=
-
-
-//Tranquility
-//notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
-dimwishlist:item=-1645386487&perks=
-
 
 //Defiance of Yasmin
 //notes:D Tier. Aegis Recommended alternative(s): Praedyth's Revenge, Conspiracy Honed, Lance Ephemeral, The Supremacy, Omniscient Eye, Critical Anomaly, Keen Thistle, IKELOS_SR_v1.0.3, Succession: BRAVE version, Succession
@@ -1205,11 +914,6 @@ dimwishlist:item=-2164448701&perks=
 dimwishlist:item=-3690523502&perks=
 
 
-//Canis Major
-//notes:E Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
-dimwishlist:item=-2066434718&perks=
-
-
 //Tarnation
 //notes:F Tier. Aegis Recommended alternative(s): VS Chill Inhibitor, The Ever-Present, Outrageous Fortune, Bitter/Sweet, Wicked Sister, Edge Transit: BRAVE version, Cataphract GL3
 dimwishlist:item=-2721157927&perks=
@@ -1220,70 +924,21 @@ dimwishlist:item=-2721157927&perks=
 dimwishlist:item=-1321506184&perks=
 dimwishlist:item=-3248429089&perks=
 
-
-//Circular Logic
-//notes:D Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Qua Vinctus IV, Bitter End, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
-dimwishlist:item=-2187717691&perks=
-
-
 //Seventh Seraph SAW
 //notes:E Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Qua Vinctus IV, Bitter End, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
 dimwishlist:item=-2582755344&perks=
-
-
-//Thermal Erosion
-//notes:F Tier. Aegis Recommended alternative(s): Song of Ir Yut, Pro Memoria, Ulterior Observation, Corrective Measure, Qua Vinctus IV, Bitter End, Terminus Horizon: RotN version, Commemoration, Hammerhead: BRAVE version, Avalanche, Unwavering Duty, Speleologist, Archon's Thunder, Watchful Eye
-dimwishlist:item=-1766088024&perks=
-
-
-//Roar of the Bear
-//notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Haliaetus, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
-dimwishlist:item=-4009352833&perks=
-dimwishlist:item=-2231910050&perks=
-dimwishlist:item=-308332265&perks=
-
 
 //Bad Omens
 //notes:D Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Haliaetus, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
 dimwishlist:item=-991314988&perks=
 
-
-//Red Herring
-//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Haliaetus, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
-dimwishlist:item=-3175851496&perks=
-
-
-//Heretic
-//notes:E Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Haliaetus, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
-dimwishlist:item=-3067821200&perks=
-
-
 //Ascendancy
-//notes:F Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Haliaetus, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:C Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Haliaetus, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
 dimwishlist:item=-725408022&perks=
 
 
 //Subzero Salvo
-//notes:F Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Haliaetus, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
+//notes:C Tier. Aegis Recommended alternative(s): Hezen Vengeance, The When and Where, Haliaetus, Cold Comfort: RotN version, Cynosure, Tomorrow's Answer
 dimwishlist:item=-42351395&perks=
 
 
-//Dragoncult Sickle
-//notes:E Tier. Aegis Recommended alternative(s): Synanceia, Bequest, The Slammer, Sullen Claw, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Goldtusk, Zephyr, Temptation's Hook
-dimwishlist:item=-3668817296&perks=
-
-
-//Sola's Scar
-//notes:E Tier. Aegis Recommended alternative(s): Synanceia, Bequest, The Slammer, Sullen Claw, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Goldtusk, Zephyr, Temptation's Hook
-dimwishlist:item=-1313528549&perks=
-dimwishlist:item=-3847137620&perks=
-
-
-//Hero of Ages
-//notes:E Tier. Aegis Recommended alternative(s): Synanceia, Bequest, The Slammer, Sullen Claw, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Goldtusk, Zephyr, Temptation's Hook
-dimwishlist:item=-2139640995&perks=
-
-
-//Chivalric Fire
-//notes:F Tier. Aegis Recommended alternative(s): Synanceia, Bequest, The Slammer, Sullen Claw, Aurora Dawn, Summum Bonum, Abyssal Edge, Geodetic HSm, Falling Guillotine: BRAVE version, Ill Omen, The Other Half, Goldtusk, Zephyr, Temptation's Hook
-dimwishlist:item=-3438139008&perks=
